@@ -1,0 +1,35 @@
+
+body {
+  text-align: center;
+  background-color: black;
+  font-family: veranda, sans-serif;
+  color: white;
+}
+
+h1 {
+  font-weight: bold;
+  font-size: 50px;
+  -webkit-margin-before: 0.67em;
+  -webkit-margin-after: 0.67em;
+  -webkit-margin-start: 0px;
+  -webkit-margin-end: 0px;
+}
+
+h2 {
+  font-weight: bold;
+  font-size: 42px;
+}
+
+p {
+  color: gray;
+  font-size: 21px;
+}
+
+.link {
+  color: aquamarine;
+  font-size: 16px;
+}
+
+.footer {
+  text-align: right;
+}
